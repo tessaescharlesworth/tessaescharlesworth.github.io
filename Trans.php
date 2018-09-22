@@ -1,6 +1,4 @@
-<html>
 
-    <body>
 <?php
 
 
@@ -27,5 +25,4 @@ if ($q3 == "Gender") {
     
 }
 ?>
-    </body>
-</html>
+ 
